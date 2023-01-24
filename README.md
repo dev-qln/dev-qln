@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm qln</h1>
 <h3 align="center">I'm a 15yo developer from Italy. These are my projects and website
 
- [solo.to/qln](solo.to/qln)
+ [solo.to/qln](https://solo.to/qln)
 
 </h3>
 
