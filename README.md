@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-qln&label=Profile%20views&color=000000&style=plastic" alt="dev-qln" /> </p>
 
-- 🔭 I’m currently working on ****COMING SOON****
+- 🔭 I’m currently working on ***NOTHING****
 
 <h3 align="left"></h3>
 <p align="left">
