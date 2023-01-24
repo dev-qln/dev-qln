@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm qln</h1>
-<h3 align="center">I'm a 15yo developer from Italy. These are my projects and website</h3>
+<h3 align="center">I'm a 15 years old developer from Italy. These are my projects and website</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-qln&label=Profile%20views&color=0e75b6&style=flat" alt="dev-qln" /> </p>
 
-- 🔭 I’m currently working on ****COMING SOON****
+- 🔭 I’m currently working on nothing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
